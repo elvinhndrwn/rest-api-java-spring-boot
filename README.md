@@ -43,4 +43,8 @@ from this endpoint, will be return a random string (token) to use in Authenticat
 
 - **Get job details, response "id" from endpoint ../job will be passing on path variable** <br />
 ![image](https://user-images.githubusercontent.com/61193419/214081794-2b339a02-bb8d-48f3-9164-8c2e72dcd299.png)
+<br />
 
+- **Wrong Token**
+if put wrong token will throw 401 Http status
+![image](https://user-images.githubusercontent.com/61193419/214083406-4a99874e-1122-4b01-98bb-712a35f4c9bf.png)
